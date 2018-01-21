@@ -1362,6 +1362,11 @@
       "description": "FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.",
       "homepage": "https://github.com/amosavian/FileProvider"
     }, {
+      "title": "SwiftyRelativePath",
+      "category": "files",
+      "description": "Swift equivalent of Ruby's `Pathname.relative_path_from()` or Java's `Path.relativize()`.",
+      "homepage": "https://github.com/neoneye/SwiftyRelativePath"
+    }, {
       "title": "AlamofireJsonToObjects",
       "category": "json",
       "description": "An Alamofire extension which converts JSON response data into objects using Reflection.",
